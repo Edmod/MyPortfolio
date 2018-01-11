@@ -1,17 +1,18 @@
 # MyPortfolio
 This is where I'll link to my work
 
-[readme]: https://github.com/Edmod/MyPortfolio/GithubReadme.png
+[readme]: https://github.com/Edmod/MyPortfolio/blob/master/GithubReadme.png
 
 
 ### My 360 Video
 
-Click on the README.md link above to edit this page and replace this text with a link to your 360 video
+Click on the README.md link above and then the pencil symbol to edit this page and replace this text with a link to your 360 video
 ![readme]
 
 ### My Storyscape
 
-[Click here](https://github.com/Edmod/MyPortfolio/edit/master/README.md) to edit this page and replace this text with a link to your Storyscape
+Click on the README.md link above and then the pencil symbol to edit this page and replace this text with a link to your 360 video
+![readme]
 
 ### My Camera effect
 
@@ -21,8 +22,10 @@ Click on the README.md link above to edit this page and replace this text with a
 
 ### My Chatbot
 
-[Click here](https://github.com/Edmod/MyPortfolio/edit/master/README.md) to edit this page and replace this text with a link to your chatbot and the FB page on which it lives
+Click on the README.md link above and then the pencil symbol to edit this page and replace this text with a link to your 360 video
+![readme]
 
 ### My React project
 
-[Click here](https://github.com/Edmod/MyPortfolio/edit/master/README.md) to edit this page and replace this text with a link to your React project
+Click on the README.md link above and then the pencil symbol to edit this page and replace this text with a link to your 360 video
+![readme]
