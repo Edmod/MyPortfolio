@@ -3,7 +3,7 @@ This is where I'll link to my work
 
 ### My 360 Video
 
-[Click here](https://github.com/Edmod/MyPortfolio/edit/master/README.md) to edit this page and replace this text with a link to your 360 video
+Click on the README.md link above to edit this page and replace this text with a link to your 360 video
 
 ### My Storyscape
 
