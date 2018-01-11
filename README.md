@@ -1,9 +1,13 @@
 # MyPortfolio
 This is where I'll link to my work
 
+[readme]: https://github.com/Edmod/MyPortfolio/GithubReadme.png
+
+
 ### My 360 Video
 
 Click on the README.md link above to edit this page and replace this text with a link to your 360 video
+![readme]
 
 ### My Storyscape
 
